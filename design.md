@@ -77,7 +77,11 @@ current rough BOM
 # update 08/02/2025
 put another 2 or 3 hours into sketching out how im going to get this to work
 finally managed to start getting stuff modelled in fusion 360
-https://cloud-jr0f3cjmn-hack-club-bot.vercel.app/0image.png
+
+<img src="https://cloud-jr0f3cjmn-hack-club-bot.vercel.app/0image.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
 the belting seems daunting but i recon its going to be nice
 
 ive struggled to try and model the bed as almost all of the technical drawing on the aliexpress listings are horrible 
