@@ -72,3 +72,12 @@ current rough BOM
 | Fushi LM8-UU/2pcs              | £9.79         |                                                                                                  |
 | Fushi LM8-LUU/2pcs             | £12.29        |                                                                                                  |
 
+
+
+# update 08/02/2025
+put another 2 or 3 hours into sketching out how im going to get this to work
+finally managed to start getting stuff modelled in fusion 360
+https://cloud-jr0f3cjmn-hack-club-bot.vercel.app/0image.png
+the belting seems daunting but i recon its going to be nice
+
+ive struggled to try and model the bed as almost all of the technical drawing on the aliexpress listings are horrible 
