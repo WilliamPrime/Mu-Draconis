@@ -1,7 +1,6 @@
 # mu draconis
 Made by : William
 respository link: https://github.com/WilliamPrime/Mu-Draconis
-Total hours: Arround 5
 
 i have a 3d printer :D
 
@@ -74,7 +73,7 @@ current rough BOM
 
 
 
-# update 08/02/2025
+## 08/02/2025  (arround 5 total hours)
 put another 2 or 3 hours into sketching out how im going to get this to work
 finally managed to start getting stuff modelled in fusion 360
 
@@ -85,3 +84,39 @@ finally managed to start getting stuff modelled in fusion 360
 the belting seems daunting but i recon its going to be nice
 
 ive struggled to try and model the bed as almost all of the technical drawing on the aliexpress listings are horrible 
+
+## 15/02/2025 (arround 13 total hours)
+made alot more progress
+ive been modelling the respective components im going to need for my build
+ive also started to model the assemblies so i can start combining them
+
+ive decided to start with the bed because i think the bed will be the biggest challenge to make
+the bed is probably my biggest challenge because i need to deal with belts to rotate the bed, and also belt tensioning for that, but i also need to deal with getting power to the bed as i would like to have a powered bed, for that i also need to deal with the slip ring
+the solution i think i have come up with is 3d printing a custom hollow pulley/sprocket that will attach to the bed, that way the slipring can be on the inside of it and still deliver power
+
+here are some images of the CAD that ive started to hobble together
+
+
+<img src="https://cdn.hackclubber.dev/slackcdn/2249a46613cd168fe8c47ccac4479448.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+<img src="https://cdn.hackclubber.dev/slackcdn/4487a36952424e21c55a8125484ab075.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+     <img src="https://cdn.hackclubber.dev/slackcdn/87fea6e6c3f6143f4372952cadccecca.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+     <img src="https://cdn.hackclubber.dev/slackcdn/797f056c130ea83b47509f0e03efe3a4.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+     <img src="https://cdn.hack.pet/slackcdn/1a2a60ba4b11c61f53306f0c2183026c.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+     <img src="https://cdn.hack.pet/slackcdn/7bbc1aec7b0fca603a153226776a2e31.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+
+
+
+
+
