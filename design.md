@@ -117,6 +117,17 @@ here are some images of the CAD that ive started to hobble together
      style="float: left; margin-right: 10px;" />
 
 
+## 18/02/2025 (arround 18 total hours)
+started working on belt tensioners
+     <img src="https://cdn.hackclubber.dev/slackcdn/db28638079230db44cd8334a3dad00f4.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
+they were surprisingly tricky to design 
+but im hoping maybe if i go all belts then i can reuse the belt tensioners across the printer
 
+<img src="https://cdn.hack.pet/slackcdn/cbf5c1866e8a1887e0b50253c39c2e33.png"
+     alt="image of printer"
+     style="float: left; margin-right: 10px;" />
 
+it feels quite voron 0 inspired, but that was what i was inspired by :D 
 
