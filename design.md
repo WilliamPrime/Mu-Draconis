@@ -214,4 +214,6 @@ since my hot end is going on the same side of my carridge as my belts, im encoun
 you can also see the fan ducts are aligned with the centre of the nozzle, also not intentional :(
 sorry
 
+this ended up being really spaghettic like, im not sure how to use mark down files properly, you can probably tell
+
 
