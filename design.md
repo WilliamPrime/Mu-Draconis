@@ -3,7 +3,7 @@ Made by : William
 respository link: https://github.com/WilliamPrime/Mu-Draconis
 
 i have a 3d printer :D
-
+total hours so far: arround 60
 
 
 
@@ -221,36 +221,7 @@ updated BOM is here
 https://docs.google.com/spreadsheets/d/1IZOwHB4fpJywedBBVYQKaOOAUHnNrE4fSURzN-7t6E4/edit?gid=0#gid=0
 
 
-## managed to count some bolts 
-now at least i know the hardware i need to add to my bom
-
-bed assembly
-m3x8    8pcs
-m3x12 5pcs
-m3 x35   4pcs
-m3 x30 6pcs
-m3 x30 6pcs , 45 degree angle
-m3 nylock nut,   6pcs
-m5 t sloct nut , 2pcs
-m5x18 , 2pcs
-m5x10 , 2pcs
-m3 heat sets , 11pcs
-
-
-frame
-m6x20 , 2pcs
-m3x12 , 21pcs
-m5x8 , 8pcs
-m5 t slot nut, 8pcs
-m3 x8, 6pcs
-m3x20, 8pcs
-m4x28, 2pcs
-m4 nut, 1pcs
-m3 heat set, 3 pcs
-
-
-
-# 17/04/2025 big changes and a bit of a write up and summary that is long due
+# 17/04/2025 BIG changes and a bit of a write up and summary that is long due arround 
 
 
 
@@ -639,7 +610,33 @@ now that we are on electronics i should probably make an electronics diagram for
 but im not sure if it needs one
 
 so i will just write it out
-the 
+
+240v comes in through the C14 inlet
+That then goes to the PSU so i have 24v for the rest of the printer
+
+that 24v will need to power the:
+2 heater relays,
+SKR MINI E3 V3, and
+kliiper expansion board
+
+the motors all attach to the SKR mini
+the endstops all attach to the SKR mini
+thermistors attach to SKR mini
+
+however because of the me having an SKR mini that has a dead multiplexer, meaning that none of the mosfets work
+i need to use a klipper expansion board to get mosfets to controll my fans and heaters
+my fans will connect directly to the klipper expansion board
+the bed and hotend however draw alot more power
+the bed could draw 150w
+and the hotend 80w
+im not confident the klipper expansion board can handle that much current , arround 3-6A
+so im using a little external mosfet board to power the bed and hotend
+the boards get power from the PSU
+but they get the signal from the klipper expansion board mosftets
+
+
+
+
 
 random bits for the end
 almost forgot to make endstops
@@ -675,9 +672,6 @@ so that gets us to this nice render of the printer in what is currently its fini
 
 
 
-
-
-
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/6241c7993d7a243c48dfeaf707213b25041c25ed_wow_thats_close.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
@@ -691,7 +685,10 @@ so that gets us to this nice render of the printer in what is currently its fini
 
 
 i have got some things i do want to improve, but those involve change the 3d printed parts not any of the hardware
-the list of stuff i want to make less bad is
+the list of stuff i want to make less bad are:
+
 make the hotend mount more secure
+
 better fan duct design
+
 fix the 0.0027 degree angle on the sides of the bed belt tensioner thing
