@@ -620,7 +620,7 @@ and then with the psu it looks like thise
 
 however the screw terminals looked a bit exposed
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/2e178b0b81dfe089c8402545934646c0e9c23634_unsafe_psu.png"
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/0c0d71f225338157ca6ec41493fe225d3277082b_unsafe_psu_smoller_file.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
      
@@ -628,9 +628,10 @@ and i REALLYY dont want to accidentally touch live 240v ac
 thats not how i want to go out
 so i designed a nice little cover for the screw terminals to prevent me accidentally zapping myself 
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/4d32845b2c431c8135dfae85125d76a47a2bc881_safer_psu.png"
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/688367c394d2c4927cdece1cd4788c7c28199e39_safer_psu_even_smaller_file.png"
      alt="image of printer"
      style="float: left; margin-right: 10px;" />
+
 
 
 
