@@ -8,9 +8,9 @@ made by
 ![image](https://github.com/user-attachments/assets/e097807d-2c92-4aad-aff6-419cdd0ac673)
 
 # time breakdown
-- 80hours in cad
-- 20hours building
-- 110 hours of assorted troubleshooting and refinements to CAD 
+- 90hours in cad
+- 25hours building
+- 95 hours of assorted troubleshooting and refinements to CAD 
 
 the goals of the printer:
 
