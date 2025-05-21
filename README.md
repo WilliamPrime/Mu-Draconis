@@ -1,12 +1,16 @@
 # Mu-Draconis
 
-Total time: arround 80 hours
+Total time: arround 210 hours
 Made by : WilliamPrime
 made by 
 - [x] I have a 3D printer or will be getting one before March 21st
 
 ![image](https://github.com/user-attachments/assets/e097807d-2c92-4aad-aff6-419cdd0ac673)
 
+# time breakdown
+- 80hours in cad
+- 20hours building
+- 110 hours of assorted troubleshooting and refinements to CAD 
 
 the goals of the printer:
 
