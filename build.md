@@ -2,9 +2,26 @@
 
 # part one, this is all going to go extactly as planned
 
-its not
+overall the intial build of the 3d printer went really smoothly
 
-my first challenge in build the 3d printer was making the holes in the 2020 extrusion that joins it to the the 2040 extusion
+
+
+
+
+# my first challenge in build the 3d printer was making the holes in the 2020 extrusion that joins it to the the 2040 extusion
+
+the first hole that went all the way through the extrusion was fairly easy, 
+but the hole that allows the bolts to sit flushly with the surface were alot more challenging
+![image](https://github.com/user-attachments/assets/054d96f0-b12b-4f86-95ba-7489e86a73a1)
+the drill bit would attempt to jump and chatter because of the big gaps
+
+i managed to find a drill bit something like this
+![image](https://github.com/user-attachments/assets/e00c0303-6739-4cc1-8bbc-f2e37a95700e)
+which allowed me to use the existing hole as a pilot hole to prevent it chattering, and after ordering that it was alot easier
+i would show a picture of it IRL, but guess who forgot to take a photo :sad: 
+
+
+
 
 # the hotbed voltage pannic
 i had a little mishap with ordering my heat bed , ali express decided to refund me on the heat bed i ordered, which was nice, but left me without a heatbed
@@ -82,6 +99,13 @@ i also supported the bearing from both sides so it wasnt cantalevered
 
 
 
+
+# time split overall
+
+- time spent following the CAD in the original build plan: 25h
+- time spent troubleshooting my MCU crashing when at 0,0,z  40h
+  - i thought that this was a dead board, so i was switching control boards ect which took alot of time making cable to allow
+  - i also tried a bunch of other things to fix it, not that any of them worked
 
 # things i would change if i did it again
 - print parts in ABS from the start
