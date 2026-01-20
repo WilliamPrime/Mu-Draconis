@@ -6,11 +6,11 @@
 
 Mu-Draconis is a cantilever polar 3d printer.
 
-Its not designed to be fast.
-Its not designed to be the most reliable.
+Its not designed to be fast. </br>
+Its not designed to be the most reliable. </br>
 Its not designed to be the cheapest.
 
-However its quite good at being different. 
+However its quite good at being different.  </br>
 How many polar 3D printers have you seen recently?
 
 
